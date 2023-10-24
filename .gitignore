@@ -1,3 +1,7 @@
+*.xlsx
+*.ppt
+*.gitignore
+
 *.docx
 # Compiled class file
 *.class
